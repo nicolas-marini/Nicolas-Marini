@@ -10,9 +10,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sobre_mim-36BCF7?style=for-the-badge&logo=readme&logoColor=white" alt="Sobre mim" />
-</p>
+## Sobre mim
 
 Sou estudante de **Informática para Internet** na **ETEC Fernando Prestes**, com experiência prática em desenvolvimento web. Já construí uma aplicação de e-commerce completa, com CRUD, API REST e painel de administração.
 
@@ -20,17 +18,13 @@ Hoje meu foco é migrar para a área de **segurança da informação**, aproveit
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Objetivo_profissional-36BCF7?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Objetivo profissional" />
-</p>
+## Objetivo profissional
 
 **Cybersecurity Professional.** Busco atuar na área de segurança, aplicando meus conhecimentos de desenvolvimento web e continuando a evoluir tecnicamente.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tecnologias_e_ferramentas-36BCF7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Tecnologias e ferramentas" />
-</p>
+## Tecnologias e ferramentas
 
 ### Conhecimentos atuais
 
@@ -46,11 +40,9 @@ Hoje meu foco é migrar para a área de **segurança da informação**, aproveit
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Projeto_em_destaque-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Projeto em destaque" />
-</p>
+## Projeto em destaque
 
-### Loja NB, E-commerce
+### Loja NB — E-commerce
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -66,8 +58,7 @@ Aplicação web de e-commerce desenvolvida como projeto prático, reunindo geren
 - CRUD completo para gerenciamento de dados
 - API REST
 - Gerenciamento de usuários e administradores
-- Organização e gerenciamento de produtos
-- Animações e interações com Anime.js
+- Organização e gerenciamento de produtos e clientes
 
 **Tecnologias utilizadas:**
 
@@ -81,9 +72,7 @@ HTML · CSS · JavaScript · PHP · MySQL · Bootstrap · jQuery · Anime.js
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o_e_cursos-36BCF7?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Formação e cursos" />
-</p>
+## Formação
 
 **ETEC Fernando Prestes**
 Técnico em Informática para Internet, integrado ao Ensino Médio.
@@ -94,23 +83,19 @@ Técnico em Informática para Internet, integrado ao Ensino Médio.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Idiomas-36BCF7?style=for-the-badge&logo=duolingo&logoColor=white" alt="Idiomas" />
-</p>
+## Idiomas
 
 - Inglês: B1+ (intermediário)
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contato-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato" />
-</p>
+## Contato
 
 <p align="center">
   <a href="https://github.com/nicolas-marini">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nicolasnmarini/">
+  <a href="https://www.linkedin.com/in/nicolasnmarini/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
