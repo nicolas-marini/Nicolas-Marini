@@ -103,17 +103,6 @@ Técnico em Informática para Internet, integrado ao Ensino Médio.
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Stats-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nicolas-marini&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-marini&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
-<p align="center">
   <img src="https://img.shields.io/badge/Contato-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato" />
 </p>
 
