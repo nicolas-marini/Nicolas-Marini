@@ -1,16 +1,18 @@
-# Olá! Eu sou Nicolas Novaes Marini 👋
+# Olá! Eu sou Nicolas Novaes Marini
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+Inform%C3%A1tica+para+Internet;Desenvolvimento+Web;Aspirante+a+Cybersecurity+Professional" alt="Apresentação animada" />
 </p>
 
 <p align="center">
-  📍 Sorocaba, São Paulo, Brasil
+  <img src="https://img.shields.io/badge/Sorocaba,_SP,_Brasil-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+<p align="center">
+  <img src="https://img.shields.io/badge/Sobre_mim-36BCF7?style=for-the-badge&logo=readme&logoColor=white" alt="Sobre mim" />
+</p>
 
 Sou estudante de **Informática para Internet** na **ETEC Fernando Prestes**, com experiência prática em desenvolvimento web. Já construí uma aplicação de e-commerce completa, com CRUD, API REST e painel de administração.
 
@@ -18,13 +20,17 @@ Hoje meu foco é migrar para a área de **segurança da informação**, aproveit
 
 ---
 
-## 🎯 Objetivo profissional
+<p align="center">
+  <img src="https://img.shields.io/badge/Objetivo_profissional-36BCF7?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Objetivo profissional" />
+</p>
 
 **Cybersecurity Professional.** Busco atuar na área de segurança, aplicando meus conhecimentos de desenvolvimento web e continuando a evoluir tecnicamente.
 
 ---
 
-## 🚀 Tecnologias e ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Tecnologias_e_ferramentas-36BCF7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Tecnologias e ferramentas" />
+</p>
 
 ### Conhecimentos atuais
 
@@ -40,9 +46,18 @@ Hoje meu foco é migrar para a área de **segurança da informação**, aproveit
 
 ---
 
-## 💻 Projeto em destaque
+<p align="center">
+  <img src="https://img.shields.io/badge/Projeto_em_destaque-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Projeto em destaque" />
+</p>
 
-### 🛒 Loja NB — E-commerce
+### Loja NB, E-commerce
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 Aplicação web de e-commerce desenvolvida como projeto prático, reunindo gerenciamento de produtos, usuários e administração.
 
@@ -66,7 +81,9 @@ HTML · CSS · JavaScript · PHP · MySQL · Bootstrap · jQuery · Anime.js
 
 ---
 
-## 🎓 Formação e cursos
+<p align="center">
+  <img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o_e_cursos-36BCF7?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Formação e cursos" />
+</p>
 
 **ETEC Fernando Prestes**
 Técnico em Informática para Internet, integrado ao Ensino Médio.
@@ -77,13 +94,17 @@ Técnico em Informática para Internet, integrado ao Ensino Médio.
 
 ---
 
-## 🌎 Idiomas
+<p align="center">
+  <img src="https://img.shields.io/badge/Idiomas-36BCF7?style=for-the-badge&logo=duolingo&logoColor=white" alt="Idiomas" />
+</p>
 
 - Inglês: B1+ (intermediário)
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Stats-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=nicolas-marini&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
@@ -92,13 +113,15 @@ Técnico em Informática para Internet, integrado ao Ensino Médio.
 
 ---
 
-## 📫 Contato
+<p align="center">
+  <img src="https://img.shields.io/badge/Contato-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato" />
+</p>
 
 <p align="center">
   <a href="https://github.com/nicolas-marini">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nicolasnmarini/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
