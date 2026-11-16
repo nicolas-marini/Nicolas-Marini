@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Sorocaba,_SP,_Brasil-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
 </p>
 
----
 
 ## Sobre mim
 
@@ -16,13 +15,11 @@ Sou estudante de **Informática para Internet** na **ETEC Fernando Prestes**, co
 
 Hoje meu foco é migrar para a área de **segurança da informação**, aproveitando a base que tenho em desenvolvimento para entender como aplicações são construídas, atacadas e protegidas.
 
----
 
 ## Objetivo profissional
 
 **Cybersecurity Professional.** Busco atuar na área de segurança, aplicando meus conhecimentos de desenvolvimento web e continuando a evoluir tecnicamente.
 
----
 
 ## Tecnologias e ferramentas
 
@@ -38,7 +35,6 @@ Hoje meu foco é migrar para a área de **segurança da informação**, aproveit
   <img src="https://skillicons.dev/icons?i=laravel,react,cpp,python,postgres&theme=dark&perline=7" alt="Tecnologias em desenvolvimento" />
 </p>
 
----
 
 ## Projeto em destaque
 
@@ -70,8 +66,6 @@ HTML · CSS · JavaScript · PHP · MySQL · Bootstrap · jQuery · Anime.js
   </a>
 </p>
 
----
-
 ## Formação
 
 **ETEC Fernando Prestes**
@@ -81,13 +75,9 @@ Técnico em Informática para Internet, integrado ao Ensino Médio.
 
 - Python Fundamentals, DIO (Digital Innovation One)
 
----
-
 ## Idiomas
 
 - Inglês: B1+ (intermediário)
-
----
 
 ## Contato
 
@@ -100,8 +90,4 @@ Técnico em Informática para Internet, integrado ao Ensino Médio.
   </a>
 </p>
 
----
 
-<p align="center">
-  <i>"Learning by building, improving through practice."</i>
-</p>
